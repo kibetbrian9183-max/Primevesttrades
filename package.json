@@ -13,8 +13,10 @@
     "lucide-react": "^0.525.0",
     "recharts": "^2.15.0"
   },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4",
-    "vite": "^5"
-  }
+"devDependencies": {
+  "@vitejs/plugin-react": "^4",
+  "@tailwindcss/vite": "^4",
+  "tailwindcss": "^4",
+  "vite": "^5"
+}
 }
